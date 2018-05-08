@@ -11,4 +11,4 @@ Icecream Color:
 
 ----
 
-*   Front Awesome from [gardar/yed-fa-palettes: yED palettes from Font Awesome icons](https://github.com/gardar/yed-fa-palettes)
+*   Font Awesome from [gardar/yed-fa-palettes: yED palettes from Font Awesome icons](https://github.com/gardar/yed-fa-palettes)
